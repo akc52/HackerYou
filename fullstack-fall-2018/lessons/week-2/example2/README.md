@@ -23,3 +23,7 @@ https://insomnia.rest/download
 ### Task 2
 > 1) Create a new workspace
 > 2) Create our first request
+
+TODO(mperrotte): use these resources to make some requests
+- https://reqres.in/
+- https://jsonplaceholder.typicode.com/
