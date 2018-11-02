@@ -29,7 +29,7 @@ const moduleName = rquire('module-name');
 
 > ECMAScript 6
 ```js
-import * as moduleName from 'module-name';
+import moduleName from 'module-name';
 ```
 [Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) on `import` syntax.
 
