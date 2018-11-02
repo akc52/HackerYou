@@ -54,3 +54,6 @@ export default {
   }
 };
 ```
+
+**CAVEAT**: You must run `node` with a special flag to get this import syntax (unless you're using bable).
+`node --experimental-modules my-app.mjs`.
