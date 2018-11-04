@@ -50,7 +50,8 @@ router.route('/')
   .get((req, res, next) => {
     res.json({ data: books });
   })
-  .post(jwt({ secret }), (req, res, next) => {
+  // .post(jwt({ secret }), (req, res, next) => {
+  .post((req, res, next) => {
     const { body } = req;
     const { name, author } = body;
 
