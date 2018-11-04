@@ -21,13 +21,13 @@
 [Meduim post about topic](https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b) gives some good explaination though the level of jargan and history might be confusing. If you have more questions after reading this article, that's quite normal.
 
 Syntactically the following two examples are the same.
-> RequireJS
+> **RequireJS**
 ```js
 const moduleName = rquire('module-name');
 ```
 [Documentation](https://nodejs.org/api/modules.html) on `require` and module API in nodejs.
 
-> ECMAScript 6
+> **ECMAScript 6**
 ```js
 import moduleName from 'module-name';
 ```
@@ -57,3 +57,13 @@ export default {
 
 **CAVEAT**: You must run `node` with a special flag to get this import syntax (unless you're using bable).
 `node --experimental-modules my-app.mjs`.
+
+### Class Exercise
+> Creating a _simple_ module
+
+_(notes: exercise #1)_
+
+### Class Exercise
+> Create your **own** module
+
+_(notes: exercise #2 & #2.1)_
