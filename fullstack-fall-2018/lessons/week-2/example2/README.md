@@ -1,5 +1,13 @@
 # Example 2
 
+## HTTP
+[Resource](http://www.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html): These are some pretty technical docs on the basics of HTTP.
+
+![http-packet-basics-diagram][http-basics-image]
+
+[http-basics-image]: http://www.ntu.edu.sg/home/ehchua/programming/webprogramming/images/HTTP_ResponseMessageExample.png "Basic image of http packet"
+
+
 ## HTTP Requests
 > We're going to use a tool to help us make API requests. This tool will help us visualise what we're doing.
 
