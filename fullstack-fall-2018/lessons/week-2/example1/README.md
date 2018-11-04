@@ -26,7 +26,7 @@ Environments tend to offer you access to certain things, like functions or perha
 Syntactically the following two examples are the same.
 > **RequireJS**
 ```js
-const moduleName = rquire('module-name');
+const moduleName = require('module-name');
 ```
 [Documentation](https://nodejs.org/api/modules.html) on `require` and module API in nodejs.
 
