@@ -32,6 +32,8 @@ https://insomnia.rest/download
 > 1) Create a new workspace
 > 2) Create our first request
 
-TODO(mperrotte): use these resources to make some requests
+
+#### **Extra:**
+These are some other services that allow you to play with API's and HTTP verbs.
 - https://reqres.in/
 - https://jsonplaceholder.typicode.com/
