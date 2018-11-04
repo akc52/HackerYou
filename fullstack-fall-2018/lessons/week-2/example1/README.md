@@ -1,6 +1,9 @@
 # Example 1
 
 ## Introduction to nodejs (as a runtime environment)
+We use the word **environment** a lot in programming and we are often talking about different things. Sometimes we are talking about the _browsers environment_ and other times maybe we are speaking about the _local environment_ on your computer. Running (or executing) javascript requires an environment. When we write javascript for the front end, the environment that executes (or runs) our javascript is the browser. When we write javascript for the back end, the environment that runs (or executes) our javascript is nodejs.
+
+Environments tend to offer you access to certain things, like functions or perhaps even whole libraries. In the browser environment, you get access to the `console` object. You probably use this object all the time, invoking one of it's primary methods `.log`. Similarly to the browser environment, the nodejs environment also has this global object `console` that you can utilise in the same fashion.
 
 ### Task #1
 > Create a `hello.js` file that will log out "Hello World!"
