@@ -1,4 +1,4 @@
-# Example 2
+# Example 3
 
 ## HTTP Requests
 > We're going to use a tool to help us make API requests. This tool will help us visualise what we're doing.
