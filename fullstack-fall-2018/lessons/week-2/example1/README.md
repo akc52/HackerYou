@@ -3,7 +3,7 @@
 ## Introduction to nodejs (as a runtime environment)
 
 ### Task #1
-> Create a `hello.js` file taht will log out "Hello World!"
+> Create a `hello.js` file that will log out "Hello World!"
 
 ### Task #2.1
 > Pass a command line arguments to a node program
