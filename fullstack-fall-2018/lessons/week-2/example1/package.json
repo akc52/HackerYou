@@ -1,0 +1,17 @@
+{
+  "name": "example1",
+  "version": "1.0.0",
+  "description": "## Introduction to nodejs (as a runtime environment)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael Perrotte",
+  "license": "MIT",
+  "dependencies": {
+    "sentencer": "^0.1.5"
+  },
+  "devDependencies": {
+    "semistandard": "github:mikemimik/semistandard"
+  }
+}
